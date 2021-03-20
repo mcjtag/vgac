@@ -1,2 +1,2 @@
 # vgac
-Dynamic VGA Controller
+Dynamic VGA Controller (Verilog) with reconfigurable PLL subsystem.
